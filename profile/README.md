@@ -1,4 +1,4 @@
-<h1 align="center">Luftiny Techlonogies</h1>
+<br /><br /><h1 align="center">Luftiny Techlonogies</h1><br /><br />
 
 <p align="center">Luftiny is a technology company that develops fast, secure, and modern operating systems.
 Our goal is to future-proof the user experience and provide innovative solutions.</p>
