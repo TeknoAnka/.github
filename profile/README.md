@@ -4,7 +4,7 @@ Luftiny is a technology company that develops fast, secure, and modern operating
 Our goal is to future-proof the user experience and provide innovative solutions.
 
 ### 🚀 Working On:
-<h3><img src="https://i.imgur.com/g2qBatF.png" width="35px" /> Lumenflux/Lumenflux-zen</h3>
-<h3><img src="https://i.imgur.com/agwekX9.png" width="35px" /> PebbleUI/PebbleUI-Lite</h3>
-<h3><img src="https://i.imgur.com/g2qBatF.png" width="35px" /> SolsticeOS</h3>
-<h3><img src="https://i.imgur.com/g2qBatF.png" width="35px" /> Solstice Server</h3>
+<p><img src="https://i.imgur.com/g2qBatF.png" width="20px" /> Lumenflux/Lumenflux-zen</p>
+<p><img src="https://i.imgur.com/agwekX9.png" width="20px" /> PebbleUI/PebbleUI-Lite</p>
+<p><img src="https://i.imgur.com/g2qBatF.png" width="20px" /> SolsticeOS</p>
+<p><img src="https://i.imgur.com/g2qBatF.png" width="20px" /> Solstice Server</p>
