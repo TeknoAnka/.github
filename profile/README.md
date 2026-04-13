@@ -3,7 +3,6 @@
 <p align="center">Luftiny is a technology company that develops fast, secure, and modern operating systems.
 Our goal is to future-proof the user experience and provide innovative solutions.</p>
 
-<h3 align="center">Working On:</h3>
 <p align="center">
   <a href="https://github.com/Luftiny/Lumenflux"><img src="https://i.imgur.com/l3mnRoW.png" width="64px"></a>
   <a href="https://github.com/Luftiny/Lumenflux-zen"><img src="https://i.imgur.com/ZKqKKLd.png" width="64px"></a>
