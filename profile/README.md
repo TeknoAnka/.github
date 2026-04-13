@@ -1,4 +1,4 @@
-<h1><img src="https://i.imgur.com/3EjpOaP.png" width="300px" /></h1>
+<h1 align="center">Luftiny Techlonogies</h1>
 
 Luftiny is a technology company that develops fast, secure, and modern operating systems.
 Our goal is to future-proof the user experience and provide innovative solutions.
