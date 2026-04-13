@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://i.imgur.com/K5ECrAd.png" width="100px"><br />
-  LUFTINY TECHLONOGIES
+  LUFTINY TECHLONOGIES<br />
 </h1>
 
 <p align="center">Luftiny is a technology company that develops fast, secure, and modern operating systems.
