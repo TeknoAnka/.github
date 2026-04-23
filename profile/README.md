@@ -6,8 +6,8 @@
 Our goal is to future-proof the user experience and provide innovative solutions.</p>
 
 <p align="center">
-  <a href="https://github.com/Luftiny/Ferus"><img src="https://i.imgur.com/kMxkViK.png" width="128px"></a>
+  <a href="https://github.com/Luftiny/FeruS"><img src="https://i.imgur.com/kMxkViK.png" width="128px"></a>
   <a href="https://github.com/Luftiny/Kaptan"><img src="https://i.imgur.com/NBFlEyP.png" width="128px"></a>
-  <a href="https://github.com/Luftiny/Lupus"><img src="https://i.imgur.com/LZcYFMM.png" width="128px"></a>
+  <a href="https://github.com/Luftiny/LupuS"><img src="https://i.imgur.com/LZcYFMM.png" width="128px"></a>
 </p>
 <h1></h1>
