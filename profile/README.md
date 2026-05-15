@@ -10,7 +10,5 @@ Our goal is to future-proof the user experience and provide innovative solutions
   <a href="https://github.com/TeknoAnka/LupuS"><img src="https://i.imgur.com/LZcYFMM.png" width="128px"></a>
 </p>
 
-<br />
-
 <p align="center">FeruS (%0) -> LupuS (%0) -> KaptanUI (%0)</p>
 <h1></h1>
