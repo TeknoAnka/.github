@@ -11,5 +11,5 @@ Our goal is to future-proof the user experience and provide innovative solutions
 </p>
 
 <b align="center">Project Order:</b>
-<p align="center"></p>FeruS (%0) -> LupuS (%0) -> KaptanUI (%0)</p>
+<p align="center">FeruS (%0) -> LupuS (%0) -> KaptanUI (%0)</p>
 <h1></h1>
