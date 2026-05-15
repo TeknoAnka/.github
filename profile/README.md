@@ -1,5 +1,4 @@
 <h1 align="center">
-  TeknoAnka
 </h1>
 
 <p align="center">TeknoAnka is a technology company that develops fast, secure, and modern operating systems.
