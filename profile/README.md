@@ -11,5 +11,5 @@ Our goal is to future-proof the user experience and provide innovative solutions
   <a href="https://github.com/TeknoAnka/KaptanUI"><img src="https://i.imgur.com/EZMjvOy.png" width="128px"></a>
 </p>
 
-<p align="center"><b>FeruS (%13) > LupuS (%0) > FeliS (%0) > KaptanUI (%0)</b></p>
+<p align="center"><b>FeruS (%54) > LupuS (%21) > FeliS (%0) > KaptanUI (%0)</b></p>
 <h1></h1>
