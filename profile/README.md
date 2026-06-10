@@ -7,7 +7,7 @@ Our goal is to future-proof the user experience and provide innovative solutions
 <p align="center">
   <!--<a href="https://github.com/TeknoAnka/FeruS"><img src="https://i.imgur.com/05zNesG.png" width="128px"></a>-->
   <a href="https://github.com/TeknoAnka/LupuS"><img src="https://i.imgur.com/QvoX2EL.png" width="128px"></a>
-  <!--<a href="https://github.com/TeknoAnka/FeliS"><img src="https://i.imgur.com/M8KSUKc.png" width="128px"></a>
-  <a href="https://github.com/TeknoAnka/CaptainUI"><img src="https://i.imgur.com/H89IdAE.png" width="128px"></a>-->
+  <a href="https://github.com/TeknoAnka/FeliS"><img src="https://i.imgur.com/YIK9Cji.png" width="128px"></a>
+  <!--<a href="https://github.com/TeknoAnka/CaptainUI"><img src="https://i.imgur.com/H89IdAE.png" width="128px"></a>-->
 </p>
 <h1></h1>
