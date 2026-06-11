@@ -5,8 +5,7 @@
 Our goal is to future-proof the user experience and provide innovative solutions.</p>
 
 <p align="center">
-  <a href="https://github.com/TeknoAnka/FeruS"><img src="https://i.imgur.com/DFGvi4R.png" width="128px"></a>
-  <a href="https://github.com/TeknoAnka/LupuS"><img src="https://i.imgur.com/QvoX2EL.png" width="128px"></a>
-  <a href="https://github.com/TeknoAnka/FeliS"><img src="https://i.imgur.com/YIK9Cji.png" width="128px"></a>
+  <a href="https://github.com/TeknoAnka/FeruS"><img src="https://i.imgur.com/CSjUtnf.png" width="128px"></a>
+  <a href="https://github.com/TeknoAnka/LupuS"><img src="https://i.imgur.com/i3TGI6x.png" width="128px"></a>
 </p>
 <h1></h1>
