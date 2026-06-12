@@ -6,6 +6,6 @@ Our goal is to future-proof the user experience and provide innovative solutions
 
 <p align="center">
   <a href="https://github.com/TeknoAnka/FeruS"><img src="https://i.imgur.com/CSjUtnf.png" width="128px"></a>
-  <a href="https://github.com/TeknoAnka/LupuS"><img src="https://i.imgur.com/cYjdok4.png" width="128px"></a>
+  <a href="https://github.com/TeknoAnka/LupuS"><img src="https://i.imgur.com/xTJBxv0.png" width="128px"></a>
 </p>
 <h1></h1>
